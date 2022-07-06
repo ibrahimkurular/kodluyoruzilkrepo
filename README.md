@@ -16,4 +16,4 @@ code .
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-[lorem ipsum](http://google.com)
+[lorem ipsum](https://choosealicense.com/licenses/mit/)
