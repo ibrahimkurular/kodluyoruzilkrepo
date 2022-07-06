@@ -7,7 +7,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet READ
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 <pre class="notranslate">
-<code>git clone https://github.com/ibrahimkurular/kodluyoruzilkrepo</code>
+<code>git clone https://github.com/ibrahimkurular/kodluyoruzilkrepo.git</code>
 </pre>
 
 ## Usage
